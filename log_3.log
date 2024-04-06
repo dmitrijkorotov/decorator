@@ -1,0 +1,20 @@
+Date and time:06.04.2024 14:54:58
+Name function:hello_world
+Params function: () - {}
+Result: Hello World
+
+Date and time:06.04.2024 14:54:58
+Name function:summator
+Params function: (2, 2) - {}
+Result: 4
+
+Date and time:06.04.2024 14:54:58
+Name function:div
+Params function: (6, 2) - {}
+Result: 3.0
+
+Date and time:06.04.2024 14:54:58
+Name function:summator
+Params function: (4.3,) - {'b': 2.2}
+Result: 6.5
+

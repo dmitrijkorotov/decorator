@@ -1,0 +1,30 @@
+Date and time:06.04.2024 14:55:09
+Name function:hello_world
+Params function: () - {}
+Result: Hello World
+
+Date and time:06.04.2024 14:55:09
+Name function:summator
+Params function: (2, 2) - {}
+Result: 4
+
+Date and time:06.04.2024 14:55:09
+Name function:div
+Params function: (6, 2) - {}
+Result: 3.0
+
+Date and time:06.04.2024 14:55:09
+Name function:summator
+Params function: (4.3,) - {'b': 2.2}
+Result: 6.5
+
+Date and time:06.04.2024 14:55:09
+Name function:summator
+Params function: () - {'a': 0, 'b': 0}
+Result: 0
+
+Date and time:06.04.2024 14:55:20
+Name function:save_data
+Params function: ([{'link': 'https://spb.hh.ru/vacancy/95290826?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'зп не указана', 'company': 'билайн: ИТ, Data, Digital', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/94195694?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': '150\u202f000 – 250\u202f000 ₽', 'company': 'Carbon Soft', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/94688694?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'зп не указана', 'company': 'билайн: ИТ, Data, Digital', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/94983712?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': '120\u202f000 – 180\u202f000 ₽', 'company': 'ООО ЭКО центр АльтраВита', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/94360994?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'от 130\u202f000 ₽', 'company': 'ООО Major Terminal', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/93804537?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'зп не указана', 'company': 'Lesta Games', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/96256140?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'до 470\u202f000 ₽', 'company': 'Точка', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/95974823?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'от 200\u202f000 ₽', 'company': 'ООО Корпорация ЗНАК', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/96002765?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': '200\u202f000 – 350\u202f000 ₽', 'company': 'Carbon Soft', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/95214807?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'зп не указана', 'company': 'Qualitica', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/96169783?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'зп не указана', 'company': 'ПАО «Газпром нефть» ИТ', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/96169784?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'зп не указана', 'company': 'ПАО «Газпром нефть» ИТ', 'city': 'Санкт-Петербург'}, {'link': 'https://spb.hh.ru/vacancy/95591427?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'от 200\u202f000 ₽', 'company': 'B.ART', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/95624583?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'зп не указана', 'company': 'VOXYS', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/72687504?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': '150\u202f000 – 200\u202f000 ₽', 'company': 'ООО Селфсек', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/96267713?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'зп не указана', 'company': 'YADRO', 'city': 'Санкт-Петербург'}, {'link': 'https://spb.hh.ru/vacancy/95916962?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': '200\u202f000 – 250\u202f000 ₽', 'company': 'Веза', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/96190226?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'зп не указана', 'company': 'СберМаркетинг', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/93930171?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'до 195\u202f000 ₽', 'company': 'ООО Октопустех', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/94525478?query=python+django+++++++++++++++++++++++++flask&searchRid=17124045197688d45c046bf199830388&hhtmFrom=vacancy_search_list', 'salary': 'зп не указана', 'company': 'ООО РА Дельта', 'city': 'Москва'}],) - {}
+Result: Данные сохранены в result_data.json
+
